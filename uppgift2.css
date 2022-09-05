@@ -1,0 +1,15 @@
+body{
+     background-color: aliceblue;
+     Color: rgb(54, 202, 9);
+}
+H1 {font-size:22px;
+    font-family: arial;
+
+}
+.program {background-color: rgba(14, 166, 236, 0.096);
+Color: acliceblue;
+text-align:center; }
+.uppgift{ text-align:right;}
+.program{border: 1px solid rgb(0, 0, 0);
+}
+a {text-decoration: none;}
